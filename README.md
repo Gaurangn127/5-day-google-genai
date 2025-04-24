@@ -85,8 +85,8 @@ This project is a demonstration of multimodal artificial intelligence powered by
    ```
    
 3. Get Your Gemini API Key
-   -- Head over to [Google AI studio](https://aistudio.google.com/) and grab an API key
-   -- Add it as a Kaggle Secret or environment variable GOOGLE_API_KEY.
+- Head over to [Google AI studio](https://aistudio.google.com/) and grab an API key
+- Add it as a Kaggle Secret or environment variable GOOGLE_API_KEY.
 
 ---
 
