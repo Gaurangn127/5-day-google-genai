@@ -17,7 +17,6 @@ This project is a demonstration of multimodal artificial intelligence powered by
 - **Model Task**: Summarize content and highlight key learnings.
 - **Learning Outcome**: Structuring long-form prompts for summarization.
 
----
 
 ### Image Processing
 - **Image Source**: A Bob Ross painting.
@@ -25,7 +24,6 @@ This project is a demonstration of multimodal artificial intelligence powered by
 - **Model Task**: Describe the image in detail with emotional context.
 - **Learning Outcome**: Prompting for visual and perceptual analysis.
 
----
 
 ### Audio Understanding
 - **Input**: Audio file containing spoken content.
@@ -36,21 +34,18 @@ This project is a demonstration of multimodal artificial intelligence powered by
 - **Output**: JSON-formatted response.
 - **Learning Outcome**: Structured multimodal prompts and audio comprehension.
 
----
 
 ### Few-Shot Prompting
 - **Task**: Convert natural language instructions into Python functions.
 - **Technique**: Few-shot learning with syntactic and semantic patterning.
 - **Learning Outcome**: Example-driven prompt crafting.
 
----
 
 ### JSON Parsing
 - **Task**: Post-process model responses.
 - **Tools Used**: `json.loads()` with markdown cleaning.
 - **Learning Outcome**: Reliable parsing of structured model outputs.
 
----
 
 ### Function Calling
 - **Custom Helper**: `display_transcript()`
@@ -93,7 +88,5 @@ This project is a demonstration of multimodal artificial intelligence powered by
 ## Future Enhancements
 
 - Integrate video understanding.
-
 - Expand function-calling capabilities (e.g., database queries).
-
 - Build a simple front-end UI for user interaction.
